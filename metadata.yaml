@@ -1,0 +1,34 @@
+_repo: Illustrations-of-the-manners-customs-condition-of-the-North-American-Indians-Vol-I-of-2-With-__68768
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Catlin, George
+    aliases:
+    - Catlin, G. (George)
+    - Catlin, Geo. (George)
+    birthdate: 1796
+    deathdate: 1872
+    gutenberg_agent_id: '42918'
+    url: http://www.gutenberg.org/2009/agents/42918
+description: ''
+gutenberg_issued: '2022-08-16'
+identifiers:
+  gutenberg: '68768'
+language: en
+pgterms:marc904: https://archive.org/details/illustrationsofm01catl_0
+pgterms:marc905: 20210323121503catlin
+pgterms:marc906: '1876'
+pgterms:marc907: GB
+production_note: Richard Hulse, Robert Tonsing and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :Chatto & Windus, Picadilly,1876.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Illustrations of the manners, customs, & condition of the North American Indians,
+  Vol. I (of 2): With letters and notes, written during eight years of travel and
+  adventure among the wildest and most remarkable tribes now existing'
+url: http://www.gutenberg.org/ebooks/68768
