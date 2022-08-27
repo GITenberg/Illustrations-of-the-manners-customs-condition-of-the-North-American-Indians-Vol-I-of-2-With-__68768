@@ -1,5 +1,8 @@
 _repo: Illustrations-of-the-manners-customs-condition-of-the-North-American-Indians-Vol-I-of-2-With-__68768
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68768-h/images/cover.jpg
 creator:
   author:
     agent_name: Catlin, George
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '42918'
     url: http://www.gutenberg.org/2009/agents/42918
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68768#Illustrations-of-the-manners-customs-condition-of-the-North-American-Indians-Vol-I-of-2-With-_
 gutenberg_issued: '2022-08-16'
 identifiers:
   gutenberg: '68768'
